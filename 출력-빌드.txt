@@ -1,0 +1,5 @@
+﻿1>------ 빌드 시작: 프로젝트: Assembly-CSharp, 구성: Debug Any CPU ------
+1>C:\Users\종현\슬라임게임!\Assets\Script\CameraAgent.cs(9,28,9,39): warning CS0649: CameraAgent.m_BoardUnit' 필드에는 할당되지 않으므로 항상 0 기본값을 사용합니다.
+1>C:\Users\종현\슬라임게임!\Assets\Script\CameraAgent.cs(8,29,8,43): warning CS0649: CameraAgent.m_TargetCamera' 필드에는 할당되지 않으므로 항상 null 기본값을 사용합니다.
+1>  Assembly-CSharp -> C:\Users\종현\슬라임게임!\Temp\bin\Debug\Assembly-CSharp.dll
+========== 빌드: 성공 1, 실패 0, 최신 0, 생략 0 ==========
