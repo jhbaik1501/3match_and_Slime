@@ -5,6 +5,7 @@
 ![KakaoTalk_20220322_194611601](https://user-images.githubusercontent.com/81180977/159465205-b8663f6e-443c-4420-af9a-4622b592d601.jpg)
 
 ### 2. 정보 알려주기
+<img src="https://user-images.githubusercontent.com/81180977/159465307-f927945f-5dfb-4c26-88b3-ba0265182b7b.jpg" width="200" height="400"/>
 ![KakaoTalk_20220322_194611601_01](https://user-images.githubusercontent.com/81180977/159465307-f927945f-5dfb-4c26-88b3-ba0265182b7b.jpg)
 
 ### 3. 구매하기
